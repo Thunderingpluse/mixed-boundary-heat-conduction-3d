@@ -21,7 +21,6 @@ Ghost nodes are introduced at all convective, heat flux, and adiabatic boundarie
 ## File Structure
 - `3d conduction_Diff BC_no_eq.py` - Primary script containing the sparse matrix generation, boundary formulations, solver execution, and 3D scatter plotting.
 - `v0.py` - Initial prototype code.
-- `friend code` - Reference files for comparative validation.
 - `output.txt` - Complete output data detailing 3D nodal temperatures by layer.
 - `3D Grid.png` - Visual plot containing the 3D grid scatter map showing thermal distribution.
 
